@@ -1,0 +1,9 @@
+Zoo_Fantastico\app\Service\CreatureService.class
+Zoo_Fantastico\app\Controller\ZoneController.class
+Zoo_Fantastico\app\Creature\Creature.class
+Zoo_Fantastico\app\SpringBootAppIntelljApplication.class
+Zoo_Fantastico\app\Repository\CreatureRepository.class
+Zoo_Fantastico\app\Repository\ZoneRepository.class
+Zoo_Fantastico\app\Controller\CreatureController.class
+Zoo_Fantastico\app\Service\ZoneService.class
+Zoo_Fantastico\app\Creature\Zone.class
